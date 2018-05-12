@@ -1,0 +1,37 @@
+_repo: The-Library-of-William-Congreve_27606
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Congreve, William
+    alias: Congrove, Mr. (William)
+    birthdate: 1670
+    deathdate: 1729
+    gutenberg_agent_id: '547'
+    url: http://www.gutenberg.org/2009/agents/547
+    wikipedia: http://en.wikipedia.org/wiki/William_Congreve_(playwright)
+  editor:
+    agent_name: Hodges, John Cunyus
+    birthdate: 1892
+    deathdate: 1967
+    gutenberg_agent_id: '32792'
+    url: http://www.gutenberg.org/2009/agents/32792
+description: ''
+gutenberg_issued: '2008-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27606'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Congreve, William, 1670-1729 -- Library -- Catalogs'
+- !lcsh 'Early printed books -- England -- Bibliography -- Catalogs'
+- !lcsh 'Private libraries -- England -- Catalogs'
+- !lcc 'Z'
+- !lcsh 'Rare books -- England -- Bibliography -- Catalogs'
+title: The Library of William Congreve
+url: http://www.gutenberg.org/ebooks/27606
